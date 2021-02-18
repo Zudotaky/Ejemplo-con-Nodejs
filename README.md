@@ -1,5 +1,5 @@
 # Este es un trabajo echo para la facultad de la UNQ para la materia Taller Servicios Web
-# este trabajo esta echo por mi Julian Rybczuk y mi compañero Federico Schvemler
+este trabajo esta echo por mi Julian Rybczuk y mi compañero Federico Schvemler
 
 
 LISTA DE COMANDOS DISPONIBLES
