@@ -1,0 +1,12 @@
+node_modules
+node_modules/
+UNQfy_persistido
+Notify_persistido
+target/
+RemoteSystemsTempFiles/
+.settings/
+.metadata/
+.project
+.classpath
+bin
+.java._trace
